@@ -13,7 +13,7 @@ import {
 	FormTitle,
 } from './FormStyles';
 
-import { Container } from "../../globalStyle";
+import { Container } from "../../globalStyles";
 import validateForm from './validateForm';
 
 
