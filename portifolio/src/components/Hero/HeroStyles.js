@@ -27,28 +27,3 @@ export const HeroText = styled.p`
 	letter-spacing: 2px;
 	color: #fff;
 `;
-
-export const ButtonWrapper = styled.div`
-	width: 100%;
-	display: flex;
-	justify-content: center;
-	flex-flow: wrap;
-	gap: 0.5rem;
-`;
-
-export const HeroButton = styled(Button)`
-	color: black;
-
-	&:before {
-		background: #fff;
-		height: 500%;
-	}
-
-	&:hover:before {
-		height: 0%;
-	}
-
-	&:hover {
-		color: white;
-	}
-`;
