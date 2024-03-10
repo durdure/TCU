@@ -11,10 +11,10 @@ const Home = () => {
 		<>
 			<Hero />
 			<Features />
-			{/* <Content {...heroOne} />
+			<Content {...heroOne} />
 			<Content {...heroTwo} />
 			<Content {...heroThree} />
-			<Carousel /> */}
+			<Carousel />
 		</>
 	);
 };
