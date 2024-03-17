@@ -16,7 +16,7 @@ const Hero = () => {
 				</HeroText>
 
 				
-				<div>
+				<div className='btn-main'>
 				<Link to="signup">
 						<button>Get Started</button>
 					</Link>
